@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/stackroute/boiler-plate-all-services-2.svg?branch=master)](https://travis-ci.org/stackroute/boiler-plate-all-services-2)
-[![codecov](https://codecov.io/gh/stackroute/boiler-plate-all-services-2/branch/master/graph/badge.svg)](https://codecov.io/gh/stackroute/boiler-plate-all-services-2)
+[![Build Status](https://travis-ci.org/Farhaan900/boiler-plate-all-services-2.svg?branch=master)](https://travis-ci.org/Farhaan900/boiler-plate-all-services-2)
+[![codecov](https://codecov.io/gh/Farhaan900/boiler-plate-all-services-2/branch/master/graph/badge.svg)](https://codecov.io/gh/Farhaan900/boiler-plate-all-services-2)
 ![](https://img.shields.io/codecov/c/github/stackroute/boiler-plate-all-services-2.svg?style=flat)
 
 ![](https://img.shields.io/snyk/vulnerabilities/github/stackroute/boiler-plate-all-services-2.svg?style=popout)
